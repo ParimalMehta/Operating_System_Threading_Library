@@ -1,0 +1,11 @@
+README for myThread thread library.
+
+This is a non pre-emptive user-level threading library.
+There are five files:
+
+ . README	this file
+ . Makefile	
+ . mythread.c   The driver code for myThread library.
+ . mythread.h   The header file for the library.
+ . References   All reference links used for this codes.
+
